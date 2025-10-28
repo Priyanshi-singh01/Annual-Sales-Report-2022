@@ -35,6 +35,11 @@ Final Conclusion / Recommendations
 To improve Vrinda Store sales:  
 “Target women customers” aged “30-49 yrs” living in “Maharashtra, Karnataka, and Uttar Pradesh”
 Use “ads, offers, and coupons” on “Amazon, Flipkart, and Myntra” to maximize sales potential
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)  
+Figure: Interactive Excel dashboard showing sales trends
+
 
 
  "Exploring data today to empower decisions tomorrow."
