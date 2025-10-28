@@ -37,7 +37,7 @@ To improve Vrinda Store sales:
 Use “ads, offers, and coupons” on “Amazon, Flipkart, and Myntra” to maximize sales potential
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)  
+![Dashboard Screenshot](Dashboard.png)  
 Figure: Interactive Excel dashboard showing sales trends
 
 
