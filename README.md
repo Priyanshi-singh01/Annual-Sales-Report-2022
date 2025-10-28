@@ -37,7 +37,7 @@ To improve Vrinda Store sales:
 Use “ads, offers, and coupons” on “Amazon, Flipkart, and Myntra” to maximize sales potential
 
 
-                                                       "Exploring data today to empower decisions tomorrow."
+ "Exploring data today to empower decisions tomorrow."
 
 
 
